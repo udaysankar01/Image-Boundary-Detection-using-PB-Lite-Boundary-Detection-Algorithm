@@ -30,7 +30,7 @@ Implementation of a simplified version of the Probability of Boundary Edge detec
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, I implement a simplified version of the new PB (Probability of Boundary) Boundary Detection algorithm which 
+In this project, I implement a simplified version of [the new PB (Probability of Boundary) Boundary Detection algorithm](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/papers/amfm_pami2010.pdf) which produce much better boundary detection results compared to the conventional Sobel and Canny algorithms. Specifically, PB algorithm is capable of ruling out a lot of false positives that these classical techniques produce in textured regions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
