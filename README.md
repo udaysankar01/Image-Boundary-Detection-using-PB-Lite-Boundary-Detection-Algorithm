@@ -1,3 +1,9 @@
+<a name="readme-top"></a>
+
+# Image Boundary Detection using PB-Lite Boundary Detection Algorithm
+
+Implementation of a simplified version of the Probability of Boundary Edge detection algorithm using classical techniques in Python. Derivative of Gaussian, Leung-Malik and Gabor filters were used with Sobel and Canny baselines.
+
 ## Instructions to run the code
 
 To run the pb-lite edge detection algorithm:
@@ -7,22 +13,6 @@ To run the pb-lite edge detection algorithm:
 All the results will be stored in the folder shown below:
 
 `.Code/Results/`
-
-
-
-<a name="readme-top"></a>
-
-<!-- PROJECT TITLE AND DESCRIPTION -->
-
-<h3 align="center">Image Boundary Detection using PB-Lite Boundary Detection Algorithm</h3>
-
-  <p align="center">
-    Implementation of a simplified version of the Probability of Boundary Edge detection algorithm using classical techniques in Python. Derivative of Gaussian, Leung-Malik and Gabor filters were used with Sobel and Canny baselines.
-    <br />
-  </p>
-</div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
