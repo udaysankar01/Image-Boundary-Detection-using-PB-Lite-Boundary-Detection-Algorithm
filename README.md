@@ -71,8 +71,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Uday Sankar - usankar@wpi.edu
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
