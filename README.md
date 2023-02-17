@@ -35,16 +35,8 @@ All the results will be stored in the folder shown below:
 <h3 align="center">Image Boundary Detection using PB-Lite Boundary Detection Algorithm</h3>
 
   <p align="center">
-    project_description
+    Implementation of a simplified version of the Probability of Boundary Edge detection algorithm using classical techniques in Python. Derivative of Gaussian, Leung-Malik and Gabor filters were used with Sobel and Canny baselines.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
