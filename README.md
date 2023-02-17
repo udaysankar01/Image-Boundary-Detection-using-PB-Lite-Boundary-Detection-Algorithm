@@ -4,15 +4,7 @@
 
 Implementation of a simplified version of the Probability of Boundary Edge detection algorithm using classical techniques in Python. Derivative of Gaussian, Leung-Malik and Gabor filters were used with Sobel and Canny baselines.
 
-## Instructions to run the code
 
-To run the pb-lite edge detection algorithm:
-
-`python Code/Wrapper.py`
-
-All the results will be stored in the folder shown below:
-
-`.Code/Results/`
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -38,7 +30,7 @@ All the results will be stored in the folder shown below:
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+In this project, I implement a simplified version of the new PB (Probability of Boundary) Boundary Detection algorithm which 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -59,21 +51,13 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+To run the pb-lite edge detection algorithm:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+`python Code/Wrapper.py`
+
+All the results will be stored in the folder shown below:
+
+`.Code/Results/`
 
 
 <!-- LICENSE -->
