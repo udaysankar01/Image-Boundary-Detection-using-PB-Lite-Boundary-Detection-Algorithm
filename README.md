@@ -30,13 +30,20 @@ In this project, I implement a simplified version of [the new PB (Probability of
 The first step in pb-lite method is the construction of the filter banks. The purpose of these filter banks is to obtain the texture information from the image by filtering the image and clustering the filter responses. In this project, I have implemented three main filter banks. They are:
 
 <ol>
-  <li>
-    Oriented Derivative of Gaussian (DoG) Filter Bank
-    ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
-  </li>
+  <li>Oriented Derivative of Gaussian (DoG) Filter Bank</li>
   <li>Leung Malik (LM) Filter Bank</li>
   <li>Gabor Filter Bank</li>
 </ol>
+
+The visualzations of these filters are shown below:
+
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
+
+![image](Filter Banks/LMS.png)
+
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
+
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
