@@ -25,6 +25,7 @@
 
 In this project, I implement a simplified version of [the new PB (Probability of Boundary) Boundary Detection algorithm](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/papers/amfm_pami2010.pdf) which produce much better boundary detection results compared to the conventional Sobel and Canny algorithms. Specifically, PB algorithm is capable of ruling out a lot of false positives that these classical techniques produce in textured regions. This simplified method can be called <b>pb-lite boundary</b> detection method.
 
+![image](https://user-images.githubusercontent.com/22807879/219878983-bf382879-46a6-4069-b3a4-0ed1f0feadb5.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
