@@ -39,11 +39,11 @@ The visualzations of these filters are shown below:
 
 ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
 
-![image](Filter Banks/LMS.png)
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/LMS.png)
 
-![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/LML.png)
 
-![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
+![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/Gabor.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
