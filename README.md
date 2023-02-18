@@ -23,7 +23,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project, I implement a simplified version of [the new PB (Probability of Boundary) Boundary Detection algorithm](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/papers/amfm_pami2010.pdf) which produce much better boundary detection results compared to the conventional Sobel and Canny algorithms. Specifically, PB algorithm is capable of ruling out a lot of false positives that these classical techniques produce in textured regions.
+In this project, I implement a simplified version of [the new PB (Probability of Boundary) Boundary Detection algorithm](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/papers/amfm_pami2010.pdf) which produce much better boundary detection results compared to the conventional Sobel and Canny algorithms. Specifically, PB algorithm is capable of ruling out a lot of false positives that these classical techniques produce in textured regions. This simplified method can be called <b>pb-lite boundary</b> detection method.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,7 +58,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Uday Sankar - usankar@wpi.edu
+Uday Sankar - usankar@wpi.edu
 
 Project Link: [https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm)
 
