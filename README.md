@@ -37,11 +37,19 @@ The first step in pb-lite method is the construction of the filter banks. The pu
 
 The visualzations of these filters are shown below:
 
+Oriented DoG Filter Bank:
+
 ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/DoG.png)
+
+Leung-Malik Small Filter Bank:
 
 ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/LMS.png)
 
+Leung-Malik Large Filter Bank:
+
 ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/LML.png)
+
+Gabor Filter Bank:
 
 ![image](https://github.com/udaysankar01/Image-Boundary-Detection-using-PB-Lite-Boundary-Detection-Algorithm/blob/main/Filter%20Banks/Gabor.png)
 
